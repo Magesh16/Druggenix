@@ -6,7 +6,7 @@ import data from "./data";
 
 function App() {
   const [songs, setSongs] = useState(data());
-  const [currentSong, setCurrentSong] = useState(songs[9]);
+  const [currentSong, setCurrentSong] = useState(songs[0]);
   const [isPlayiing, setIsPlaying] = useState(false);
 
   return (
