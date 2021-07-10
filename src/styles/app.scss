@@ -2,8 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(../images/bg2.jpg);
+    background:linear-gradient(to right, rgb(69, 142, 184),rgb(133, 48, 119))
 }
+
+
 
 h1,h2,h3{
     background:transparent;
@@ -12,3 +14,4 @@ h1,h2,h3{
 
 @import "./player";
 @import "./song";
+@import "./library"
