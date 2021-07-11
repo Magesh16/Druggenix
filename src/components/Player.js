@@ -8,7 +8,10 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 const Player = ({ currentSong, isPlaying, setIsPlaying }) => {
+
+
   const audioRef = useRef(null);
+  
   const playSongHandler = () => {
     if (isPlaying) {
       audioRef.current.pause();
