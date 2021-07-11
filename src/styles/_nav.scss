@@ -1,0 +1,28 @@
+nav{
+    min-height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    button{
+        background:white;
+        border: none;
+        cursor:pointer;
+        border: 2px solid black;
+        padding: 0.7rem;
+        transition: all 0.3s ease;
+        font-size: 1rem;
+        &:hover{
+            background:black;
+            color:white;
+        }
+        
+
+
+    }
+}
+h1{
+    text-transform: uppercase;
+    color:rgb(253, 169, 201);
+    letter-spacing: 0.3rem;
+    
+}
