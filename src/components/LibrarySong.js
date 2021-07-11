@@ -26,7 +26,7 @@ const LibrarySong = ({
                 active:false,
             }
         }
-    })
+    });
 
     setSongs(newSongs);
 
