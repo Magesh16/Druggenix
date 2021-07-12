@@ -9,7 +9,7 @@ function chillHop() {
         "https://play-lh.googleusercontent.com/_c_nwo4LMcoHggBeeFyNU1wyB4v2v4KN85az9r4eKN8_GENTsOKgLUkL1gn3fl6tpA=rw",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/u1-1.mp3?alt=media&token=b01940eb-c6e8-4ed3-9d17-d2828dbdfa5f",
-      color: ["#BC702F", "#FAFBD7"],
+        color: ["#9d7d56", "#0f0a06"],
       id: uuidv4(),
       active: true,
     },
@@ -20,7 +20,7 @@ function chillHop() {
         "https://play-lh.googleusercontent.com/_c_nwo4LMcoHggBeeFyNU1wyB4v2v4KN85az9r4eKN8_GENTsOKgLUkL1gn3fl6tpA=rw",
       audio:
         "https://masstamilan2000sdownload.info/tamil/2014/Poojai-Masstamilan.in/Ippadiye%20-%20Masstamilan.In-.mp3",
-      color: ["#8A221E", "#C7AA5C"],
+        color: ["#9d7d56", "#0f0a06"],
       id: uuidv4(),
       active: false,
     },
@@ -40,7 +40,7 @@ function chillHop() {
       cover: "https://play-lh.googleusercontent.com/_c_nwo4LMcoHggBeeFyNU1wyB4v2v4KN85az9r4eKN8_GENTsOKgLUkL1gn3fl6tpA=rw",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Idhu-Varai.mp3?alt=media&token=5a275e1b-2a8b-42d8-bdc3-d2415926806d",
-      color: ["#333E3A", "#FF0000"],
+        color: ["#9d7d56", "#0f0a06"],
       id: uuidv4(),
       active: false,
     },
@@ -51,7 +51,7 @@ function chillHop() {
         "http://a10.gaanacdn.com/images/albums/58/3952558/crop_480x480_3952558.jpg",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Adi-Penne-MassTamilan.fm.mp3?alt=media&token=77b44a1d-48e8-47f3-a23d-0f2cb93ad2ff",
-      color: ["#BCBB6B", "#FF7F50"],
+      color: ["#678d91", "#ac5128"],
       id: uuidv4(),
       active: false,
     },
@@ -62,7 +62,7 @@ function chillHop() {
         "https://www.filmibeat.com/img/2013/02/01-david-review-01.jpg",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Kanave-Kanave-MassTamilan.com.mp3?alt=media&token=3fd2fc4c-21ad-409f-872f-fc65b2719812",
-      color: ["#F7F4E3", "#4C170F"],
+      color: ["#0f1213", "#78382e"],
       id: uuidv4(),
       active: false,
     },
@@ -73,7 +73,7 @@ function chillHop() {
         "https://www.thehindu.com/entertainment/movies/jwtbsy/article31060332.ece/ALTERNATES/LANDSCAPE_1200/Dharala-Prabhu-Songs",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Dharala-Prabhu-Title-Track-MassTamilan.io.mp3?alt=media&token=cebe42bf-12f9-4fca-8df0-66277abe6064",
-      color: ["#AB3B3C", "#DBC270"],
+      color: ["#314c67", "#a5c37d"],
       id: uuidv4(),
       active: false,
     },
@@ -95,7 +95,7 @@ function chillHop() {
         "https://pbs.twimg.com/media/ErtIpa3U0AEB6s2.jpg",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Mangalyam-MassTamilan.fm.mp3?alt=media&token=abea2b4d-80ce-4470-b2ad-5f442fe0b063",
-      color: ["#2C3261", "#8B3947"],
+      color: ["#62472a", "#bebcaf"],
       id: uuidv4(),
       active: false,
     },
@@ -106,7 +106,7 @@ function chillHop() {
         "https://play-lh.googleusercontent.com/_c_nwo4LMcoHggBeeFyNU1wyB4v2v4KN85az9r4eKN8_GENTsOKgLUkL1gn3fl6tpA=rw",
       audio:
         "https://firebasestorage.googleapis.com/v0/b/mycollege-c567e.appspot.com/o/Uyire.mp3?alt=media&token=1a1227fc-f93a-40f0-9f00-0d274ea8b48f",
-      color: ["#5B8A61", "#AF6C58"],
+        color: ["#9d7d56", "#0f0a06"],
       id: uuidv4(),
       active: false,
     },
