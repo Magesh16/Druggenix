@@ -25,18 +25,15 @@ nav{
 }
 h1{
     text-transform: uppercase;
-    color:rgb(253, 169, 201);
-    letter-spacing: 0.3rem;
+    color:rgb(65, 36, 63);
+    letter-spacing: 0.2rem;
+    font-size: 200%;
     
 }
 @media screen and (max-width:768px) {
     nav{
         button{
             z-index: 10;
-            &:hover{
-                background:black;
-                color:white;
-            }
         }
     }
 }
