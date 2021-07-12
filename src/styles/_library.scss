@@ -23,24 +23,25 @@
     align-items:center;
     padding: 1rem 2rem 1rem 2rem;
     cursor:pointer;
+    transition:background 0.3s ease;
     img{
         width:30%;
         border-radius: 50%;
     }
     &:hover{
-        background:rgb(163, 136, 86);
+        background:rgb(112, 133, 127);
     }
 }
 
 .song-description{
     padding-left:1rem;
-    background: rgb(188, 177, 192);
+    background:transparent;
     
     h3{
-        font-size:1.1rem;
+        font-size:1rem;
     }
     h4{
-        font-size:0.8rem;
+        font-size:0.7rem;
         color:rgb(80, 26, 26);
         
     }
@@ -54,7 +55,7 @@
 }
 
 *::-webkit-scrollbar-thumb{
-    background-color:rgba(41, 40, 40, 0.5);
+    background-color:rgba(64, 64, 65, 0.795);
     border-radius: 20px;
     border: transparent;
  }
@@ -67,3 +68,9 @@
      transform: translateX(0%);
      opacity:1;
  }
+
+ @media screen and (max-width:768px) {
+    .library{
+        width:100%;
+    }
+}
